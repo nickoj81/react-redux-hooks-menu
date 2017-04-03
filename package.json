@@ -1,0 +1,14 @@
+{
+  "name": "reacttest",
+  "version": "1.0.0",
+  "description": "React test",
+  "author": "",
+  "scripts": {
+    "start": "",
+    "build": ""
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
