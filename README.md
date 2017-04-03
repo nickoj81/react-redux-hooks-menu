@@ -46,8 +46,10 @@ The following files are included in the zip file:
    to see your design choices and your ability to create an integrated solution from multiple technologies.
 
 
-Screenshots of example screens we’re expecting to see. You’re free to use any iconset you like, these are here just an example for expand/collapse icons.
+#### Screenshots of example screens 
 
 ![Screen Shot 2017-04-03 at 22.40.04.png](https://bitbucket.org/repo/5qxr5oo/images/37536905-Screen%20Shot%202017-04-03%20at%2022.40.04.png)
 
 ![Screen Shot 2017-04-03 at 22.40.50.png](https://bitbucket.org/repo/5qxr5oo/images/398891032-Screen%20Shot%202017-04-03%20at%2022.40.50.png)
+
+*(You’re free to use any iconset you like, these are here just an example for expand/collapse icons)*
