@@ -19,11 +19,13 @@ In this test your task is to display a list of music albums and songs, using Rea
     * The expand/collapse button on the individual albums should expand/collapse the list of songs
     * The expand/collapse button on the main Albums title should expand/collapse all the albums
  
+
 * The main technologies you are expected to use
     * Choice of ajax: to get the list of songs from the server
     * Redux: to store the data
     * React: to display the list
  
+
 * The supported browsers are: IE11, Firefox, Chrome, the solution expected to work on these.
   (note: only IE11, no backward compatibility with earlier IE is expected)
 
@@ -51,6 +53,6 @@ The following files are included in the zip file:
 
 4. Please use React for displaying the list.
 
-5. You�re free to use any related library you choose, this test not just about implementation
+5. You're free to use any related library you choose, this test not just about implementation
    skills but to see your design choices and your ability to create an integrated solution from
    multiple technologies.
